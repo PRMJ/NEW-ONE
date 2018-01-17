@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class Tests {
 	
-	
+	//fixing the compilatoin issues
 		@Test
 		public void setup(String browserType)
 		{
